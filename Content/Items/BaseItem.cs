@@ -8,6 +8,7 @@ using Terraria.ModLoader;
 namespace Archeology.Content.Items;
 public abstract class BaseItem : ModItem
 {
+    public virtual int ArchaeologyType => -1;
     public void Item_SetDefaultModItem(int width, int height)
     {
         Item.width = width;

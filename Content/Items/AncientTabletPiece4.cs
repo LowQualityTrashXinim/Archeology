@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Archeology.Content.Items;
 
-internal class AncientTabletPiece1 : BaseItem
+internal class AncientTabletPiece4 : BaseItem
 {
-    public override int ArchaeologyType => ArchaeologyModType.GetArchaeologyType<AncientTabletPiece1_Type>();
+    public override int ArchaeologyType => ArchaeologyModType.GetArchaeologyType<AncientTabletPiece4_Type>();
     public override void SetDefaults()
     {
-        Item_SetDefaultModItem(42, 46);
+        Item_SetDefaultModItem(38, 42);
     }
 }

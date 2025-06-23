@@ -1,2 +1,97 @@
-# This file will automatically update with entries for new content after a build and reload.
+Items: {
+	AncientTabletPiece1: {
+		DisplayName: Ancient Tablet Piece 1
+		Tooltip:
+			'''
+			Increases defenses by 5
+			If the next artifact is Ancient Tablet piece 2 then strengthen its effect by 100%
+			'''
+	}
 
+	AncientTabletPiece2: {
+		DisplayName: Ancient Tablet Piece 2
+		Tooltip:
+			'''
+			Increases base damage by 5
+			If the next artifact is Ancient Tablet piece 3 then strengthen its effect by 100%
+			'''
+	}
+
+	AncientTabletPiece3: {
+		DisplayName: Ancient Tablet Piece 3
+		Tooltip:
+			'''
+			Increases critical strike chance 5
+			If the next artifact is Ancient Tablet piece 4 then strengthen its effect by 100%
+			'''
+	}
+
+	AncientTabletPiece4: {
+		DisplayName: Ancient Tablet Piece 4
+		Tooltip:
+			'''
+			Increases critical strike damage by 25%
+			If player all have previous ancient tablet piece, then strengthen all artifact effect by 25%
+			'''
+	}
+
+	AncientWatch: {
+		DisplayName: Ancient Watch
+		Tooltip: Decreases the next artifact effect by 25% but strengthen all artifact effect by 15%
+	}
+
+	BrokenEmblem: {
+		DisplayName: Broken Emblem
+		Tooltip: Increases damage by 12% and strengthen all artifact effect by 10%
+	}
+
+	BrokenGoldenKnife: {
+		DisplayName: Broken Golden Knife
+		Tooltip:
+			'''
+			Everytime you hit enemy have 1 in 5 to throw out a golden magic dagger
+			Attacking enemy by item have 1 in 3 chance to inflict midas
+			'''
+	}
+
+	CorruptionShard: {
+		DisplayName: Corruption Shard
+		Tooltip:
+			'''
+			Have very rare chance to drop ebonstone
+			Picking up ebonstone heal you for small amount
+			'''
+	}
+
+	CrimsonShard: {
+		DisplayName: Crimson Shard
+		Tooltip:
+			'''
+			Have very rare chance to drop crimstone
+			Picking up crimstone heal you for small amount
+			'''
+	}
+
+	DesertShard: {
+		DisplayName: Desert Shard
+		Tooltip:
+			'''
+			Have very rare chance to drop sand stone
+			Picking up sand stone heal you for small amount
+			'''
+	}
+
+	IceShard: {
+		DisplayName: Ice Shard
+		Tooltip:
+			'''
+			Have very rare chance to drop ice block
+			Picking up ice block heal you for small amount
+			'''
+	}
+
+	ReInitializeUI: {
+		DisplayName: Re Initialize U I
+		Tooltip: ""
+	}
+}
