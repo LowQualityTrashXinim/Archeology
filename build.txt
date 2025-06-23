@@ -1,0 +1,4 @@
+displayName = Archeology (MODJAM)
+author = Xinim
+version = 0.1
+modReferences  = StructureHelper@3.0
